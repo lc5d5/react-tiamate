@@ -1,3 +1,4 @@
+import AlgumaDuvida from "../components/AlgumaDuvida";
 import BannerDinamico from "../components/BannerDinamico";
 
 const Contato = () => {
@@ -9,6 +10,7 @@ const Contato = () => {
                 posicaoTopo="top-[151px]"
                 alinhamento=" left-4 md:left-[133px]"
             />
+            <AlgumaDuvida/>
         </>
      );
 }

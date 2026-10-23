@@ -1,10 +1,75 @@
 {
     "depoimentos": [
         {
+            "id": 1,
             "nota": 5,
             "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
             "nome": "Joe",
             "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+        },
+        {
+            "id": 2,
+            "nota": 4,
+            "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
+            "nome": "Uriel",
+            "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+        },
+        {
+            "id": 3,
+            "nota": 3,
+            "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
+            "nome": "Dani",
+            "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+        },
+        {
+            "id": 4,
+            "nota": 5,
+            "depoimento": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est magnam quo autem sunt cumque quaerat, aspernatur saepe dolores.",
+            "nome": "Pamela",
+            "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
+        }
+    ],
+    "unidades": [
+        {
+            "endereco": "Shopping Iguatemi Fortaleza (loja 68)",
+            "cep": "70770-560",
+            "horario": "Seg a Sex - 8h:00 às 18h:00, Sáb - 08h:00 às 17h:00",
+            "contato": "(85) 99691 - 7642",
+            "id": 1
+        },
+        {
+            "endereco": "Shopping ViaSul",
+            "cep": "70770-560",
+            "horario": "Seg a Sex - 8h:00 às 18h:00, Sáb - 08h:00 às 17h:00",
+            "contato": "(85) 99691 - 7642",
+            "id": 2
+        },
+        {
+            "endereco": "Shopping Rio Mar (loja 102)",
+            "cep": "70770-560",
+            "horario": "Seg a Sex - 8h:00 às 18h:00, Sáb - 08h:00 às 17h:00",
+            "contato": "(85) 99691 - 7642",
+            "id": 3
+        }
+    ],
+    "noticias": [
+        {
+            "id": 1,
+            "jornal": "O Povo",
+            "imagem": "/img_opovo.png",
+            "titulo": "Cafeteria é nova tendência de negócio em Salvador"
+        },
+        {
+            "id": 2,
+            "jornal": "VOS",
+            "imagem": "/img_vos.png",
+            "titulo": "Um gostinho moderno no coração de Fortaleza"
+        },
+        {
+            "id": 3,
+            "jornal": "A Tarde",
+            "imagem": "/img_atarde.png",
+            "titulo": "Cafeteria é nova tendência de negócio em Salvador"
         }
     ],
 
