@@ -7,7 +7,7 @@ const Home = () => {
     return (
         <>
 
-            <Etapas/>        
+            {/* <Etapas />         */}
             <BannerDinamico
                 titulo="Um café quentinho"
                 descricao={<>aqui na Tiamate<br />muda o dia.</>}

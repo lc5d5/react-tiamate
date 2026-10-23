@@ -6,5 +6,21 @@
             "nome": "Joe",
             "foto": "https://i.pinimg.com/236x/d1/e3/d2/d1e3d2a12bc3d0221898c4391dffcfff.jpg"
         }
+    ],
+
+    "cafes": [
+        { "src": "./cappucino-01.png", "alt": "Cappucino 01" },
+        { "src": "./cappucino-02.png", "alt": "Cappucino 02" },
+        { "src": "./cappucino-03.png", "alt": "Cappucino 03" },
+        { "src": "./cappucino-04.png", "alt": "Cappucino 04" },
+        { "src": "./cappucino-05.png", "alt": "Cappucino 05" },
+        { "src": "./cappucino-06.png", "alt": "Cappucino 06" },
+        { "src": "./frappe-01.png", "alt": "Frappe 01" },
+        { "src": "./frappe-02.png", "alt": "Frappe 02" },
+        { "src": "./frappe-03.png", "alt": "Frappe 03" },
+        { "src": "./frappe-04.png", "alt": "Frappe 04" },
+        { "src": "./frappe-05.png", "alt": "Frappe 05" },
+        { "src": "./frappe-06.png", "alt": "Frappe 06" },
+        { "src": "./frappe-07.png", "alt": "Frappe 07" }
     ]
 }
